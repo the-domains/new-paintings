@@ -1,0 +1,28 @@
+name: New Paintings
+favicon: null
+layout_spectrum: 0.6493374910205603
+typography_spectrum: 0.3388935034163296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5799982608295977
+  lightness: 0.18912454298697412
+  saturation: 0.9045532955788076
+  rhythmicContrast: 0.7306997634004802
+purpose: []
