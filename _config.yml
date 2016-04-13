@@ -1,4 +1,4 @@
-name: "Gerard Tonti - What's New?"
+name: Gerard Tonti
 favicon: null
 layout_spectrum: 0.72308
 typography_spectrum: 0.3388935034163296
@@ -23,7 +23,7 @@ color:
     - '#7e6254'
     - '#9aa8b4'
   brandStrength: 0.625
-  lightness: 0.25
-  saturation: 0.25
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
