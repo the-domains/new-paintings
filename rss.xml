@@ -4,21 +4,21 @@
         <description><![CDATA[Gerard Tonti - New Paintings]]></description>
         <link>https://thegrid.ai/new-paintings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 14:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 14:31:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/new-paintings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f076603a-56f7-4ede-ac55-e75c2fbe9b91.jpg">]]></description>
+            <link>https://thegrid.ai/new-paintings/6cd2587d-75d0-4e39-820b-204db9d3152e/index.html</link>
+            <guid isPermaLink="false">6cd2587d-75d0-4e39-820b-204db9d3152e</guid>
+            <pubDate>Wed, 13 Apr 2016 14:31:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is information about Cup 11915.]]></title>
             <description><![CDATA[<article><h1>This is information about Cup 11915.</h1><p>TInteger odio urna, iaculis at enim vitae, ornare blandit enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec blandit eros sed vestibulum auctor. Nullam efficitur maximus eros, vitae ornare ex elementum et. Proin facilisis dolor a erat dictum, ac faucibus metus tincidunt. Quisque sagittis nec felis vitae facilisis. Phasellus gravida elit sit amet luctus imperdiet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3593c922b873d1c8d7428837f8b00491f9c44b1e.jpg"></article>]]></description>
             <link>https://thegrid.ai/new-paintings/3f6234a5-8d89-41e4-a152-1a7e5346ccd8/index.html</link>
             <guid isPermaLink="false">3f6234a5-8d89-41e4-a152-1a7e5346ccd8</guid>
             <pubDate>Wed, 13 Apr 2016 14:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is my next post</p>]]></description>
-            <link>https://thegrid.ai/new-paintings/6cd2587d-75d0-4e39-820b-204db9d3152e/index.html</link>
-            <guid isPermaLink="false">6cd2587d-75d0-4e39-820b-204db9d3152e</guid>
-            <pubDate>Wed, 13 Apr 2016 14:26:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
