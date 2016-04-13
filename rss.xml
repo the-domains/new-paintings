@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[New Paintings]]></title>
-        <description><![CDATA[New Paintings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Gerard Tonti - New Paintings]]></title>
+        <description><![CDATA[Gerard Tonti - New Paintings]]></description>
+        <link>https://thegrid.ai/new-paintings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 19:33:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 14:10:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/new-paintings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a872d9f6-83e1-4cc4-8659-22e4d66a1d6a.jpg">]]></description>
-            <link>undefined3f6234a5-8d89-41e4-a152-1a7e5346ccd8/index.html</link>
+            <link>https://thegrid.ai/new-paintings/3f6234a5-8d89-41e4-a152-1a7e5346ccd8/index.html</link>
             <guid isPermaLink="false">3f6234a5-8d89-41e4-a152-1a7e5346ccd8</guid>
-            <pubDate>Fri, 04 Mar 2016 19:30:43 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 14:10:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
